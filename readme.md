@@ -1,7 +1,17 @@
 ## install
 
-npm i
 npx react-native-rename "project name"
+npm i
+react-native link
+
+### ios physical device
+
+cd ios
+pod init
+pod install
+in ios folder open .workspace file
+delete iosTV targets
+add developer team
 
 ## stack
 
