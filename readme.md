@@ -23,5 +23,5 @@ in ios folder open .workspace file, delete iosTV targets, add developer team
 - react navigation
 - realm db
 - i18n
-- vector icons (only IOS for now)
+- vector icons
 - native base
