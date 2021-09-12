@@ -25,3 +25,6 @@ in ios folder open .workspace file, delete iosTV targets, add developer team
 - i18n
 - vector icons
 - native base
+- react native paper
+- react native reanimated
+- react native image crop picker
